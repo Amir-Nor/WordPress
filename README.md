@@ -33,6 +33,13 @@ The website was developed locally using XAMPP and WordPress.
 
 🎥 [Watch the website demo](video/Video Project.mp4)
 
+## Image Credits
+
+The image used in this project in section Home (Build your brand) is subject to copyright.
+
+Copyright: Md Ayub Ali Khan
+Copyright holder: Vecteezy
+Creator/Author: Md Ayub Ali Khan
 
 ## Development Environment
 
